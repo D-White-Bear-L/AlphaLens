@@ -1,8 +1,8 @@
-# AI Agent Platform - 智能 Agent 平台
+# AlphaLens - 新闻关系溯源和金融量化分析 Agent 平台
 
 <div align="center">
 
-<img src="doc/logo.jpg" alt="AI Agent Platform Logo" width="200">
+<img src="doc/logo.jpg" alt="AlphaLens Logo" width="200">
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.104+-green.svg)](https://fastapi.tiangolo.com/)
@@ -34,7 +34,7 @@
 
 ## 项目简介
 
-AI Agent Platform 是一个基于 LLM（大语言模型）的智能 Agent 平台，提供两大核心功能模块：
+AlphaLens 是一个基于 LLM（大语言模型）的智能 Agent 平台，提供两大核心功能模块：
 
 ### 🔍 新闻溯源模块 (News Trace Agent)
 
@@ -216,7 +216,7 @@ npm run dev
 ## 项目结构
 
 ```
-ai-agent-platform/
+AlphaLens/
 ├── backend/                          # 后端服务
 │   ├── app/
 │   │   ├── agent/                    # Agent 模块
@@ -605,8 +605,8 @@ A: 目前支持 A 股市场，通过 `akshare` 获取数据。股票代码格式
 
 ## 联系方式
 
-- **Issues**: [GitHub Issues](https://github.com/your-username/ai-agent-platform/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/your-username/ai-agent-platform/discussions)
+- **Issues**: [GitHub Issues](https://github.com/D-White-Bear-L/AlphaLens/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/D-White-Bear-L/AlphaLens/discussions)
 
 ---
 
