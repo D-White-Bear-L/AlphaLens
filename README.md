@@ -614,7 +614,7 @@ A: 目前支持 A 股市场，通过 `akshare` 获取数据。股票代码格式
 
 **如果这个项目对你有帮助，请给一个 ⭐ Star！**
 
-Made with ❤️ by the AI Agent Platform Team
+Made with ❤️ by the [AlphaLens](https://github.com/D-White-Bear-L/AlphaLens) team - [D-White-Bear-L](https://github.com/D-White-Bear-L).
 
 </div>
 
